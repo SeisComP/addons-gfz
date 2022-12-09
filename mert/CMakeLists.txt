@@ -1,0 +1,3 @@
+SC_BEGIN_PACKAGE(MERT)
+
+SUBDIRS(apps libs)
